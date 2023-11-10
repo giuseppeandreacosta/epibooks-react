@@ -1,0 +1,19 @@
+/* App.css (o il tuo foglio di stile principale) */
+
+/* Stili comuni per entrambi i temi */
+body {
+  transition: background-color 0.5s ease; /* Aggiungi una transizione per un effetto più fluido durante il cambio di tema */
+}
+
+/* Stili specifici per il tema chiaro */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Stili specifici per il tema scuro */
+.dark {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
